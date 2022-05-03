@@ -1,0 +1,13 @@
+const DATA = {
+    LOAD: 'LOAD_DATA',
+    LOAD_SUCCESS: 'LOAD_DATA_SUCCESS',
+    LOAD_FAIL: 'LOAD_DATA_FAIL',
+};
+
+const STATS = {
+    LOAD: 'STATS_LOAD',
+    LOAD_SUCCESS: 'STATS_LOAD_SUCCESS',
+    LOAD_FAIL: 'STATS_LOAD_FAIL',
+};
+
+export { DATA, STATS };
